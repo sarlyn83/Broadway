@@ -3,7 +3,48 @@ html {
   text-align: center;
 }
 
-h1 {
+header {
   background-image: url("/Users/bfillmer/Code/projects/Broadway/resources/images/the-flatiron-building.png");
+}
 
+header ul {
+  list-style-type: none;
+  font-size: 18px;
+}
+
+h1{
+  font-size: 70px;
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+h2{
+  font-size: 32px;
+}
+
+h3{
+  font-size: 23px;
+}
+
+p {
+  font-size: 14px;
+}
+
+h4 {
+  background-image: url("/Users/bfillmer/Code/projects/Broadway/resources/images/the-flatiron-building.png");
+  font-size: 23px;
+  color: white;
+}
+
+footer {
+  background-color: dimgray;
+  text-align: left !important;
+  color: white;
+}
+
+footer p {
+  font-size: 11px
 }
